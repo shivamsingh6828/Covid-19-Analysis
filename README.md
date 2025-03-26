@@ -1,56 +1,59 @@
 # COVID-19 Analysis Dashboard
 📌 Overview
+
 This COVID-19 Analysis Dashboard provides a comprehensive data visualization of COVID-19 cases, recoveries, and deaths across different states and UTs of India. The dashboard is built using Power BI, enabling real-time insights for healthcare professionals, researchers, and policymakers.
 
 📊 Key Insights
-📍 Total Cases: 34M (COVID-19 cases recorded in India).
 
-✅ Recovery Rate: 98.36% (Majority of cases recovered).
+- 📍 Total Cases: 34M (COVID-19 cases recorded in India).
 
-⚠️ Death Ratio: 1.3% (Percentage of total cases resulting in deaths).
+- ✅ Recovery Rate: 98.36% (Majority of cases recovered).
 
-🟠 Active Cases: 0.4% (Remaining active COVID-19 cases).
+- ⚠️ Death Ratio: 1.3% (Percentage of total cases resulting in deaths).
+
+- 🟠 Active Cases: 0.4% (Remaining active COVID-19 cases).
 
 📌  Dashboard Features
-State-wise COVID-19 Impact:
 
-Maharashtra: 6.6M cases
+1.State-wise COVID-19 Impact:
 
-Kerala: 5.1M cases
+- Maharashtra: 6.6M cases
 
-Karnataka: 3.0M cases
+- Kerala: 5.1M cases
 
-Tamil Nadu: 2.7M cases
+- Karnataka: 3.0M cases
 
-Andhra Pradesh: 2.1M cases
+- Tamil Nadu: 2.7M cases
 
-Uttar Pradesh: 1.7M cases
+- Andhra Pradesh: 2.1M cases
 
-West Bengal: 1.7M cases
+- Uttar Pradesh: 1.7M cases
 
-Delhi: 1.1M cases
+- West Bengal: 1.7M cases
 
-Odisha: 1.0M cases
+- Delhi: 1.1M cases
 
-Chhattisgarh: 1.0M cases
+- Odisha: 1.0M cases
 
-Death Rate Analysis (By State/UTs):
+- Chhattisgarh: 1.0M cases
 
-Maharashtra: 69.92%
+2.Death Rate Analysis (By State/UTs):
 
-Delhi: 12.48%
+- Maharashtra: 69.92%
 
-Punjab: 8.24%
+- Delhi: 12.48%
 
-Uttarakhand: 3.68%
+- Punjab: 8.24%
 
-Himachal Pradesh: 5.68%
+- Uttarakhand: 3.68%
 
-Geographical Spread of Cases:
+- Himachal Pradesh: 5.68%
+
+3.Geographical Spread of Cases:
 
 An interactive map displaying active vs recovered cases in different locations.
 
-Data Filters & Selections:
+4.Data Filters & Selections:
 
 Users can select individual states/UTs for granular analysis.
 
