@@ -1,9 +1,9 @@
 # COVID-19 Analysis Dashboard
-📌 Overview
+# 📌 Overview
 
 This COVID-19 Analysis Dashboard provides a comprehensive data visualization of COVID-19 cases, recoveries, and deaths across different states and UTs of India. The dashboard is built using Power BI, enabling real-time insights for healthcare professionals, researchers, and policymakers.
 
-📊 Key Insights
+# 📊 Key Insights
 
 - 📍 Total Cases: 34M (COVID-19 cases recorded in India).
 
@@ -13,7 +13,7 @@ This COVID-19 Analysis Dashboard provides a comprehensive data visualization of 
 
 - 🟠 Active Cases: 0.4% (Remaining active COVID-19 cases).
 
-📌  Dashboard Features
+# 📌  Dashboard Features
 
 1.State-wise COVID-19 Impact:
 
@@ -57,7 +57,7 @@ An interactive map displaying active vs recovered cases in different locations.
 
 Users can select individual states/UTs for granular analysis.
 
-🛠️ Tech Stack Used
+# 🛠️ Tech Stack Used
 Power BI – For data visualization and dashboard design.
 
 Microsoft Bing Maps API – For geographical data representation.
